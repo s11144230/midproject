@@ -228,6 +228,79 @@ hr {
     margin-top: 25px;
 }
 
+.sale_pic {
+    height: 200px;
+    width: 260px;
+    border-radius: 15px;
+}
+
+.int_title {
+    text-align: center;
+    height: 55px;
+    width: 215px;
+    background-color: #71a5de;
+    color: black;
+    font-family: "Whisper", cursive;
+    font-size: 50px;
+    float: left;
+}
+
+.run {
+    height: 300px;
+    width: 260px;
+    border-radius: 15px;
+    float: right;
+}
+
+.ocarina {
+    height: 200px;
+    width: 360px;
+    border-radius: 15px;
+    margin-top: 25px;
+    float: inline-start;
+}
+
+.sing {
+    height: 400px;
+    width: 222px;
+    border-radius: 15px;
+    margin-top: 25px;
+    float: inline-end;
+}
+
+.run_p {
+    background-color: #bbdefb;
+    border-radius: 15px;
+    height: 300px;
+    width: 500px;
+    font-family: "Whisper", cursive;
+    font-size: 25px;
+    margin-right: 280px;
+    margin-top: 25px;
+}
+
+.ocarina_p {
+    background-color: #bbdefb;
+    border-radius: 15px;
+    height: 210px;
+    width: 500px;
+    font-family: "Whisper", cursive;
+    font-size: 25px;
+    margin-top: 25px;
+    margin-left: 380px;
+}
+
+.sing_p {
+    background-color: #bbdefb;
+    border-radius: 15px;
+    height: 150px;
+    width: 500px;
+    font-family: "Whisper", cursive;
+    font-size: 25px;
+    margin-top: 25px;
+    margin-right: 242px;
+}
+
 .top {
     border-radius: 50%;
     height: 50px;
