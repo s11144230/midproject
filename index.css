@@ -269,10 +269,54 @@ hr {
     float: inline-end;
 }
 
+.run_title {
+    display: grid;
+    place-content: center;
+    height: 100px;
+    width: 100px;
+    background-color: #aecbeb;
+    border-radius: 50%;
+    color: black;
+    font-family: "Whisper", cursive;
+    font-size: 30px;
+    float: inline-start;
+    margin-left: 30px;
+}
+
+.ocarina_title {
+    display: grid;
+    place-content: center;
+    height: 100px;
+    width: 100px;
+    background-color: #aecbeb;
+    border-radius: 50%;
+    color: black;
+    font-family: "Whisper", cursive;
+    font-size: 30px;
+    float: inline-end;
+    margin-top: 25px;
+    margin-right: 145px;
+}
+
+.sing_title {
+    display: grid;
+    place-content: center;
+    height: 100px;
+    width: 100px;
+    background-color: #aecbeb;
+    border-radius: 50%;
+    color: black;
+    font-family: "Whisper", cursive;
+    font-size: 30px;
+    float: inline-start;
+    margin-left: 283px;
+    margin-top: 25px;
+}
+
 .run_p {
     background-color: #bbdefb;
     border-radius: 15px;
-    height: 300px;
+    height: 330px;
     width: 500px;
     font-family: "Whisper", cursive;
     font-size: 25px;
@@ -283,7 +327,7 @@ hr {
 .ocarina_p {
     background-color: #bbdefb;
     border-radius: 15px;
-    height: 210px;
+    height: 240px;
     width: 500px;
     font-family: "Whisper", cursive;
     font-size: 25px;
@@ -294,7 +338,7 @@ hr {
 .sing_p {
     background-color: #bbdefb;
     border-radius: 15px;
-    height: 150px;
+    height: 180px;
     width: 500px;
     font-family: "Whisper", cursive;
     font-size: 25px;
