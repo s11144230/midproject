@@ -34,7 +34,7 @@ nav a {
     display: inline-block;
 }
 
-nav a:hover {
+button:hover {
     background-color: #bbdefb;
 }
 
