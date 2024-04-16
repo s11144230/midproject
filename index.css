@@ -16,12 +16,16 @@ header {
     margin: 0px;
     padding: 20px;
     font-size: 100px;
-    font-family: "Whisper", cursive;
+    font-family: "Noto Serif TC", serif;
+    font-weight: 400;
+    font-style: normal;
 }
 
 nav {
     background-color: #83b0e1;
-    font-family: Arial;
+    font-family: "Kalam", cursive;
+    font-weight: 400;
+    font-style: normal;
     text-align: center;
 }
 
@@ -40,6 +44,9 @@ button {
     font-size: 20px;
     background-color: #aecbeb;
     border-radius: 25px;
+    font-family: "Kalam", cursive;
+    font-weight: 400;
+    font-style: normal;
 }
 
 .about_title {
@@ -48,7 +55,9 @@ button {
     width: 145px;
     background-color: #71a5de;
     color: black;
-    font-family: "Whisper", cursive;
+    font-family: "Kalam", cursive;
+    font-weight: 400;
+    font-style: normal;
     font-size: 50px;
     float: right;
 }
@@ -64,7 +73,9 @@ button {
     background-color: #bbdefb;
     color: black;
     font-size: 25px;
-    font-family: "Whisper", cursive;
+    font-family: "Noto Serif TC", serif;
+    font-weight: 400;
+    font-style: normal;
     border-radius: 15px;
     width: 50%;
     margin-left: 275px;
@@ -97,7 +108,9 @@ hr {
     width: 175px;
     background-color: #71a5de;
     color: black;
-    font-family: "Whisper", cursive;
+    font-family: "Kalam", cursive;
+    font-weight: 400;
+    font-style: normal;
     font-size: 50px;
     float: left;
 }
@@ -120,7 +133,9 @@ hr {
     border-left-style: solid;
     border-left-color: #83b0e1;
     font-size: 50px;
-    font-family: "Whisper", cursive;
+    font-family: "Kalam", cursive;
+    font-weight: 400;
+    font-style: normal;
     float: right;
 }
 
@@ -190,7 +205,9 @@ hr {
     width: 275px;
     background-color: #71a5de;
     color: black;
-    font-family: "Whisper", cursive;
+    font-family: "Kalam", cursive;
+    font-weight: 400;
+    font-style: normal;
     font-size: 50px;
     float: right;
 }
@@ -203,7 +220,9 @@ hr {
     background-color: #aecbeb;
     border-radius: 50%;
     color: black;
-    font-family: "Whisper", cursive;
+    font-family: "Noto Serif TC", serif;
+    font-weight: 400;
+    font-style: normal;
     font-size: 30px;
     float: inline-start;
 }
@@ -211,7 +230,9 @@ hr {
 .exp_p {
     background-color: #bbdefb;
     color: black;
-    font-family: "Whisper", cursive;
+    font-family: "Noto Serif TC", serif;
+    font-weight: 400;
+    font-style: normal;
     font-size: 25px;
     border-radius: 15px;
     width: 80%;
@@ -222,7 +243,9 @@ hr {
     background-color: #bbdefb;
     border-radius: 15px;
     width: 530px;
-    font-family: "Whisper", cursive;
+    font-family: "Noto Serif TC", serif;
+    font-weight: 400;
+    font-style: normal;
     font-size: 20px;
     margin-left: 103px;
     margin-top: 25px;
@@ -241,7 +264,9 @@ hr {
     width: 215px;
     background-color: #71a5de;
     color: black;
-    font-family: "Whisper", cursive;
+    font-family: "Kalam", cursive;
+    font-weight: 400;
+    font-style: normal;
     font-size: 50px;
     float: left;
 }
@@ -277,7 +302,9 @@ hr {
     background-color: #aecbeb;
     border-radius: 50%;
     color: black;
-    font-family: "Whisper", cursive;
+    font-family: "Noto Serif TC", serif;
+    font-weight: 400;
+    font-style: normal;
     font-size: 30px;
     float: inline-start;
     margin-left: 30px;
@@ -291,7 +318,9 @@ hr {
     background-color: #aecbeb;
     border-radius: 50%;
     color: black;
-    font-family: "Whisper", cursive;
+    font-family: "Noto Serif TC", serif;
+    font-weight: 400;
+    font-style: normal;
     font-size: 30px;
     float: inline-end;
     margin-top: 25px;
@@ -306,7 +335,9 @@ hr {
     background-color: #aecbeb;
     border-radius: 50%;
     color: black;
-    font-family: "Whisper", cursive;
+    font-family: "Noto Serif TC", serif;
+    font-weight: 400;
+    font-style: normal;
     font-size: 30px;
     float: inline-start;
     margin-left: 283px;
@@ -316,9 +347,11 @@ hr {
 .run_p {
     background-color: #bbdefb;
     border-radius: 15px;
-    height: 330px;
+    height: 400px;
     width: 500px;
-    font-family: "Whisper", cursive;
+    font-family: "Noto Serif TC", serif;
+    font-weight: 400;
+    font-style: normal;
     font-size: 25px;
     margin-right: 280px;
     margin-top: 25px;
@@ -327,9 +360,11 @@ hr {
 .ocarina_p {
     background-color: #bbdefb;
     border-radius: 15px;
-    height: 240px;
+    height: 255px;
     width: 500px;
-    font-family: "Whisper", cursive;
+    font-family: "Noto Serif TC", serif;
+    font-weight: 400;
+    font-style: normal;
     font-size: 25px;
     margin-top: 25px;
     margin-left: 380px;
@@ -338,9 +373,11 @@ hr {
 .sing_p {
     background-color: #bbdefb;
     border-radius: 15px;
-    height: 180px;
+    height: 220px;
     width: 500px;
-    font-family: "Whisper", cursive;
+    font-family: "Noto Serif TC", serif;
+    font-weight: 400;
+    font-style: normal;
     font-size: 25px;
     margin-top: 25px;
     margin-right: 242px;
