@@ -1,6 +1,6 @@
 * {
     box-sizing: border-box;
-    max-width: 1024px;
+    max-width: 1100px;
     margin: 0px auto;
 }
 
@@ -16,7 +16,7 @@ header {
     margin: 0px;
     padding: 20px;
     font-size: 100px;
-    font-family: "Noto Serif TC", serif;
+    font-family: "Shippori Mincho B1", serif;
     font-weight: 400;
     font-style: normal;
 }
