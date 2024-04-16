@@ -64,9 +64,10 @@ button {
 
 .me_img {
     border-radius: 50%;
-    height: 200px;
-    width: 200px;
+    height: 210px;
+    width: 210px;
     float: left;
+    border: solid 10px #aecbeb;
 }
 
 .about_p {
@@ -95,7 +96,7 @@ button {
 }
 
 .contact:hover {
-    background-color: #aecbeb;
+    transform: scale(1.1);
 }
 
 hr {
